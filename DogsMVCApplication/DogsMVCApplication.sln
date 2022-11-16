@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzeriamMVC", "PizzeriamMVC\PizzeriamMVC.csproj", "{B3D8E07C-2E25-4FD4-9945-B0BC0EC849C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DogsMVCApplication", "DogsMVCApplication\DogsMVCApplication.csproj", "{D9FE6E07-D32A-4A85-B22C-7C563C5837B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B3D8E07C-2E25-4FD4-9945-B0BC0EC849C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B3D8E07C-2E25-4FD4-9945-B0BC0EC849C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B3D8E07C-2E25-4FD4-9945-B0BC0EC849C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B3D8E07C-2E25-4FD4-9945-B0BC0EC849C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9FE6E07-D32A-4A85-B22C-7C563C5837B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9FE6E07-D32A-4A85-B22C-7C563C5837B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9FE6E07-D32A-4A85-B22C-7C563C5837B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9FE6E07-D32A-4A85-B22C-7C563C5837B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
